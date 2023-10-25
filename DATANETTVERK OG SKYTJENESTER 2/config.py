@@ -1,0 +1,9 @@
+SERVER = '10.0.0.1'
+PORT = 8088
+PROTOCOL = 'saw'  # default: stop and wait
+PAYLOAD_SIZE = 1460
+WINDOW = 5
+TIMEOUT = 0.5
+MAX_LOSS_PACKETS = 5
+MAX_SKIP_ACKS = 5
+LOSS_PROB = 0.001  # 0.1%

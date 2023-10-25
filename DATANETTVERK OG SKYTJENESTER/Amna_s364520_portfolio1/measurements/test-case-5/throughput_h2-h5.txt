@@ -1,0 +1,9 @@
+---------------------------------------------
+A simpleperf server is listening on port 8088
+---------------------------------------------
+
+A simpleperf client with 10.0.0.3:34694 is connected with 10.0.5.3:8088
+
+ID		Interval	Received	Rate
+
+10.0.0.3:34694	0.0 - 25.5	27 MB		8.43 Mbps
